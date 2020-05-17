@@ -1,0 +1,39 @@
+{
+  "name": "ice",
+  "displayName": "Ice",
+  "description": "Cold as ice",
+  "version": "0.0.1",
+  "publisher": "a5hk",
+  "icon": "icon.png",
+  "preview": true,
+  "keywords": [
+    "Ice",
+    "Cold",
+    "Dark",
+    "Borderless"
+  ],
+  "galleryBanner": {
+    "color": "012841",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "homepage": "https://github.com/a5hk/ice",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a5hk/ice"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ice",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ice-color-theme.json"
+      }
+    ]
+  }
+}
