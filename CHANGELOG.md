@@ -1,8 +1,12 @@
 # Change Log
 
+## [0.1.0]
+
+- Color adjustment
+
 ## [0.0.2]
 
-- Modidifed tab hover border
+- Modified tab hover border
 
 ## [0.0.1]
 

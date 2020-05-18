@@ -143,22 +143,6 @@
       ],
       "settings": {
         "foreground": "#0df2b9"
-        // "foreground": "#06F9BC"
-        // "foreground": "#8be7d7"
-        // "foreground": "#f5d780"
-      }
-    },
-    {
-      "scope": [
-        // "variable.other.block",
-        // "variable.other.declaration",
-        // "entity.name.type.template",
-        // "support.type.primitive",
-        // "variable.other.php",
-        // "meta.tag.object"
-      ],
-      "settings": {
-        "foreground": "#ff99b3"
       }
     },
     {
@@ -180,8 +164,6 @@
       ],
       "settings": {
         "foreground": "#d1b1f1"
-        // "foreground": "#dd99ea"
-        // "foreground": "#c385bc"
       }
     },
     {
@@ -205,7 +187,6 @@
       ],
       "settings": {
         "foreground": "#95cde9"
-        // "foreground": "#859dc3"
       }
     },
     {
@@ -218,7 +199,6 @@
       ],
       "settings": {
         "foreground": "#7ece98"
-        // "foreground": "#85c3ab"
       }
     },
     {
@@ -237,11 +217,6 @@
       ],
       "settings": {
         "foreground": "#20dede"
-        // "foreground": "#8be7d7"
-        // "foreground": "#06f9bc"
-        // "foreground": "#00ffd5"
-        // "foreground": "#12eda4"
-        // "foreground": "#c3a822"
       }
     },
     {
@@ -277,8 +252,7 @@
         "meta.tag.object"
       ],
       "settings": {
-        "foreground": "#bdbdff"
-        // "foreground": "#ff7575"
+        "foreground": "#a8a8ff"
       }
     },
     {
@@ -293,42 +267,12 @@
       ],
       "settings": {
         "foreground": "#8fefef"
-        // "foreground": "#caf4d8"
-        // "foreground": "#9ed279"
-      }
-    },
-    // {
-    //   "scope": ["keyword.operator"],
-    //   "settings": {
-    //     "foreground": "#80ff66"
-    //     // "foreground": "#66e5ff"
-    //     // "foreground": "#f2f28c"
-    //   }
-    // },
-    // {
-    //   "scope": ["meta.tag.custom"],
-    //   "settings": {
-    //     "foreground": "#d9d326"
-    //   }
-    // },
-    {
-      "scope": [
-        // "meta.tag.object",
-        // "entity.name.scope-resolution",
-        // "support.type.swift",
-        // "storage.type",
-        // "constant.language.symbol",
-        // "markup.bold"
-      ],
-      "settings": {
-        "foreground": "#80bfff"
       }
     },
     {
       "scope": ["keyword.operator.comparison", "keyword.operator.logical", "markup.italic"],
       "settings": {
         "foreground": "#b3f2ff"
-        // "foreground": "#93ecb8"
       }
     },
     {
@@ -383,16 +327,9 @@
         "storage.type",
         "constant.language.symbol",
         "markup.bold"
-        // "variable.other.block",
-        // "variable.other.declaration",
-        // "entity.name.type.template",
-        // "support.type.primitive",
-        // "variable.other.php",
-        // "meta.tag.object"
       ],
       "settings": {
         "foreground": "#4DC3FE"
-        // "foreground": "#ffa666"
       }
     },
     {
@@ -406,8 +343,6 @@
         "variable.other"
       ],
       "settings": {
-        // "foreground": "#E1E9F4"
-        // "foreground": "#f4fdfb"
         "foreground": "#dee3e6"
       }
     },
