@@ -19,7 +19,7 @@
     "editor.findMatchBackground": "#22445a",
     "editor.findMatchBorder": "#53ac53",
     "editor.findMatchHighlightBackground": "#34536777",
-    "editor.foreground": "#dee3e6",
+    "editor.foreground": "#ccd4d9",
     "editor.lineHighlightBackground": "#34536777",
     "editor.selectionBackground": "#34536799",
     "editor.selectionHighlightBackground": "#34536777",
@@ -142,7 +142,9 @@
         "heading"
       ],
       "settings": {
-        "foreground": "#0df2b9"
+        "foreground": "#3df5b8"
+        // "foreground": "#2beebd"
+        // "foreground": "#0df2b9"
       }
     },
     {
@@ -163,7 +165,7 @@
         "storage.type.js"
       ],
       "settings": {
-        "foreground": "#d1b1f1"
+        "foreground": "#d1aaf8"
       }
     },
     {
@@ -186,7 +188,8 @@
         "storage.class.std"
       ],
       "settings": {
-        "foreground": "#95cde9"
+        "foreground": "#77d8f8"
+        // "foreground": "#95cde9"
       }
     },
     {
@@ -216,7 +219,9 @@
         "keyword.operator"
       ],
       "settings": {
-        "foreground": "#20dede"
+        "foreground": "#12f1fd"
+        // "foreground": "#00f6ff"
+        // "foreground": "#20dede"
       }
     },
     {
@@ -266,7 +271,9 @@
         "string"
       ],
       "settings": {
-        "foreground": "#8fefef"
+        "foreground": "#63e9e2"
+        // "foreground": "#79ecec"
+        // "foreground": "#8fefef"
       }
     },
     {
@@ -287,7 +294,8 @@
         "keyword.key.toml"
       ],
       "settings": {
-        "foreground": "#70dbc1"
+        // "foreground": "#70dbc1"
+        "foreground": "#2dd2ae"
       }
     },
     {
@@ -343,7 +351,8 @@
         "variable.other"
       ],
       "settings": {
-        "foreground": "#dee3e6"
+        "foreground": "#ccd4d9"
+        // "foreground": "#dee3e6"
       }
     },
     {

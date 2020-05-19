@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.2.0]
+
+- Slightly modified colors
+
 ## [0.1.0]
 
 - Color adjustment
