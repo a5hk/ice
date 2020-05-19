@@ -4,10 +4,6 @@ A dark cold theme.
 
 ## Screenshots
 
-### HTML
-
-![html](screenshot/html.png)
-
 ### JavaScript
 
 ![javascript](screenshot/javascript.png)
@@ -15,6 +11,10 @@ A dark cold theme.
 ### Python
 
 ![python](screenshot/python.png)
+
+### HTML
+
+![html](screenshot/html.png)
 
 <br>Modification indicators with `"workbench.editor.highlightModifiedTabs": true`.
 
