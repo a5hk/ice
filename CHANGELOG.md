@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.2.1]
+
+- New logo
+
 ## [0.2.0]
 
 - Slightly modified colors
