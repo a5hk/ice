@@ -1,4 +1,8 @@
-# Change Log
+# Changelog
+
+## [0.3.0]
+
+- Updated terminal colors
 
 ## [0.2.1]
 
