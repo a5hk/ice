@@ -2,7 +2,7 @@
   "name": "ice",
   "displayName": "Ice",
   "description": "Cold As Ice",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "publisher": "a5hk",
   "icon": "icon.png",
   "preview": true,
@@ -30,14 +30,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Ice Contrast",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Ice-contrast-color-theme.json"
-      },
-      {
         "label": "Ice",
         "uiTheme": "vs-dark",
         "path": "./themes/Ice-color-theme.json"
+      },
+      {
+        "label": "Ice Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ice-contrast-color-theme.json"
       }
     ]
   }
