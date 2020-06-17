@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.4.1]
+
+- Added Ice contrast variant
+
 ## [0.3.0]
 
 - Updated terminal colors
