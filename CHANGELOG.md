@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.4.2]
+
+- Fixed gallery banner color
+
 ## [0.4.1]
 
 - Added Ice contrast variant
