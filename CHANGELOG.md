@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.5.0]
+
+- Background color for folded ranges
+
 ## [0.4.2]
 
 - Fixed gallery banner color
