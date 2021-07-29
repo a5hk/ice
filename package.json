@@ -1,5 +1,5 @@
 {
-  "name": "ice",
+  "name": "ice1",
   "displayName": "Ice",
   "description": "Cold As Ice",
   "version": "0.5.0",
@@ -34,24 +34,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "Ice",
+        "label": "Ice1",
         "uiTheme": "vs-dark",
-        "path": "./themes/Ice-color-theme.json"
+        "path": "./themes/ice-color-theme.json"
       },
       {
-        "label": "Ice Contrast",
+        "label": "Ice Contrast1",
         "uiTheme": "vs-dark",
-        "path": "./themes/Ice-contrast-color-theme.json"
+        "path": "./themes/ice-contrast-color-theme.json"
       },
       {
-        "label": "Ice",
+        "label": "Ice Italic",
         "uiTheme": "vs-dark",
-        "path": "./themes/Ice-color-italic-theme.json"
+        "path": "./themes/ice-italic-color-theme.json"
       },
       {
-        "label": "Ice Contrast",
+        "label": "Ice Contrast Italic",
         "uiTheme": "vs-dark",
-        "path": "./themes/Ice-contrast-italic-color-theme.json"
+        "path": "./themes/ice-contrast-italic-color-theme.json"
       }
     ]
   },
