@@ -47,30 +47,20 @@ class BaseColorPalette {
 }
 
 export class TokenColorPalette extends BaseColorPalette {
-  // Color01 = new Color(this.#setColorCode("#7dbbe8", "#a3c4dc"), "Default library function, HTML inline tag"); // TODO
-  Color02 = new Color(this.#setColorCode("#3df5b8", "#3df5b8"), "Function call, Attribute name"); //
-  Color01 = this.Color02;
-
-  Color03 = new Color(this.#setColorCode(mix("c5"), mix("c5")), "Foreground, Variable");  //
-  Color04 = new Color(this.#setColorCode("#12f1fd", "#12f1fd"), "Constant, HTML unrecognized tag"); //
-  Color05 = new Color(this.#setColorCode("#a8a8ff", "#a8a8ff"), "Miscellaneous"); //
-  Color06 = new Color(this.#setColorCode("#4dc3fe", "#4dc3fe"), "Type");  //
-  Color07 = new Color(this.#setColorCode(mix("e5"), mix("e5")), "Parameter, Argument"); //
-  Color08 = new Color(this.#setColorCode("#d1aaf8", "#d1aaf8"), "Operator"); //
-  Color09 = new Color(this.#setColorCode("#b3f2ff", "#b3f2ff"), "Comparison/Logical operator"); //
-  Color10 = new Color(this.#setColorCode(mix("44"), mix("44")), "Comment"); //
-  Color11 = new Color(this.#setColorCode(mix("aa"), mix("aa")), "Documentation comment"); //
-  Color12 = new Color(this.#setColorCode("#7ece98", "#7ece98"), "Function declaration, HTML link tag"); //
+  Color01 = new Color(this.#setColorCode("#86f9d2", "#86f9d2"), "Function call, Attribute name");
+  Color02 = new Color(this.#setColorCode("#d1aaf8", "#d1aaf8"), "Keyword, HTML meta tag");
+  Color03 = new Color(this.#setColorCode(mix("c5"), mix("c5")), "Foreground, Variable");
+  Color04 = new Color(this.#setColorCode("#b3fbff", "#b3fbff"), "Constant, HTML unrecognized tag");
+  Color05 = new Color(this.#setColorCode("#2dd2ae", "#2dd2ae"), "Property, Tag ");
+  Color06 = new Color(this.#setColorCode("#4dc3fe", "#4dc3fe"), "Type");
+  Color07 = new Color(this.#setColorCode(mix("e5"), mix("e5")), "Parameter, Argument");
+  Color08 = new Color(this.#setColorCode("#20dfd6", "#20dfd6"), "String");
+  Color09 = new Color(this.#setColorCode("#77d8f8", "#77d8f8"), "Namespace/Class/Struct, HTML style tag");
+  Color10 = new Color(this.#setColorCode(mix("44"), mix("44")), "Comment");
+  Color11 = new Color(this.#setColorCode(mix("aa"), mix("aa")), "Documentation comment");
+  Color12 = new Color(this.#setColorCode("#7ece98", "#7ece98"), "Function declaration, HTML link tag");
   Color13 = new Color(this.#setColorCode("#a8a8ff", "#a8a8ff"), "Non variable constant, HTML custom tag");
-  // Color14 = new Color(this.#setColorCode("#a8a8ff", "#a8a8ff"), "Default library class/type, HTML object tag"); //
-  Color15 = new Color(this.#setColorCode("#77d8f8", "#77d8f8"), "Namespace/Class/Struct, HTML style tag"); //
-  Color14 = this.Color15;
-
-  Color16 = new Color(this.#setColorCode(mix("77"), mix("77")), "Tag punctuation"); //
-  Color17 = new Color(this.#setColorCode("#d9d326", "#dfdd9f"), "Script tag");
-  Color18 = new Color(this.#setColorCode("#63e9e2", "#63e9e2"), "String"); //
-  Color19 = new Color(this.#setColorCode("#2dd2ae", "#2dd2ae"), "Property, Tag "); //
-  Color20 = new Color(this.#setColorCode("#d1aaf8", "#d1aaf8"), "Keyword, HTML meta tag"); //
+  Color14 = new Color(this.#setColorCode(mix("77"), mix("77")), "Tag punctuation");
 
   constructor(p = "") {
     super(p);

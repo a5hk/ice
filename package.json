@@ -1,8 +1,8 @@
 {
-  "name": "ice1",
+  "name": "ice",
   "displayName": "Ice",
   "description": "Cold As Ice",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "publisher": "a5hk",
   "author": "a5hk",
   "license": "MIT",
@@ -34,12 +34,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Ice1",
+        "label": "Ice",
         "uiTheme": "vs-dark",
         "path": "./themes/ice-color-theme.json"
       },
       {
-        "label": "Ice Contrast1",
+        "label": "Ice Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/ice-contrast-color-theme.json"
       },

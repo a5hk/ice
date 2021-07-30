@@ -68,23 +68,11 @@ function generateThemes() {
 
 function generateReadme() {
   const filepath = "./README.md";
-  const intro = `# [Night Coder](https://marketplace.visualstudio.com/items?itemName=a5hk.night-coder)
+  const intro = `# [Ice](https://marketplace.visualstudio.com/items?itemName=a5hk.ice)
 
-A dark theme for Night Coders. It has eight variants with different color palettes, text styles, and UI colors.
+A dark theme with cold colors.
 
-### Regular color palette
-
-![html](screenshot/html.png)
-
-### Pastel color palette
-
-![html](screenshot/pastel.png)
-
-## Other versions
-
-- Vim: [/vim/colors/](/vim/colors/)
-
-## Regular Color Palette
+### Color palette
 
 | Scope | Color | Hex |
 |:------|:-----:|:----|
@@ -100,25 +88,6 @@ A dark theme for Night Coders. It has eight variants with different color palett
     console.error(error);
   }
 
-//   const pastelPaletteHeader = `
-
-// ## Pastel Color Palette
-
-// | Scope | Color | Hex |
-// |:------|:-----:|:----|
-// `;
-
-//   const pastelPalette = new TokenColorPalette("pastel");
-
-//   try {
-//     fs.appendFileSync(filepath, pastelPaletteHeader);
-//     console.log("Pastel table header ...");
-//     fs.appendFileSync(filepath, pastelPalette.toString());
-//     console.log("Pastel table ...");
-//   } catch (error) {
-//     console.error(error);
-//   }
-
   const end = `
 
 ## Screenshots
@@ -127,9 +96,8 @@ A dark theme for Night Coders. It has eight variants with different color palett
 
 ![javascript](screenshot/javascript.png)
 
-### JSON
-
-![javascript](screenshot/json.png)
+### HTML
+![html](screenshot/html.png)
 
 ### Python
 

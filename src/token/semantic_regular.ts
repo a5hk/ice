@@ -28,11 +28,8 @@ export class SemanticTheme {
       "variable.readonly": {
         foreground: this.palette.Color04.code,
       },
-      "variable.defaultLibrary": {
-        foreground: this.palette.Color14.code,
-      },
       property: {
-        foreground: this.palette.Color19.code,
+        foreground: this.palette.Color05.code,
         __italic: true,
       },
       parameter: {
@@ -40,74 +37,42 @@ export class SemanticTheme {
         __italic: true,
       },
       function: {
-        foreground: this.palette.Color02.code,
+        foreground: this.palette.Color01.code,
         __italic: true,
       },
       "function.declaration": {
         foreground: this.palette.Color12.code,
       },
-      "function.defaultLibrary": {
-        foreground: this.palette.Color01.code,
-        __italic: true,
-      },
-      "function.builtin": {
-        foreground: this.palette.Color01.code,
-        __italic: true,
-      }, // python
       method: {
-        foreground: this.palette.Color02.code,
+        foreground: this.palette.Color01.code,
         __italic: true,
       },
       "method.declaration": {
         foreground: this.palette.Color12.code,
       },
-      "method.defaultLibrary": {
-        foreground: this.palette.Color01.code,
-        __italic: true,
-      },
-      "method.builtin": {
-        foreground: this.palette.Color01.code,
-        __italic: true,
-      }, // python
       keyword: {
-        foreground: this.palette.Color20.code,
+        foreground: this.palette.Color02.code,
       },
       namespace: {
-        foreground: this.palette.Color15.code,
-        __italic: true,
-      },
-      "namespace.defaultLibrary": {
-        foreground: this.palette.Color14.code,
+        foreground: this.palette.Color09.code,
         __italic: true,
       },
       class: {
-        foreground: this.palette.Color15.code,
+        foreground: this.palette.Color09.code,
         __italic: true,
       },
-      "class.defaultLibrary": {
-        foreground: this.palette.Color14.code,
-        __italic: true,
-      },
-      "class.builtin": {
-        foreground: this.palette.Color14.code,
-        __italic: true,
-      }, // python
       struct: {
-        foreground: this.palette.Color15.code,
+        foreground: this.palette.Color09.code,
         __italic: true,
       },
       type: {
         foreground: this.palette.Color06.code,
       },
-      "type.defaultLibrary": {
-        foreground: this.palette.Color14.code,
-        __italic: true,
-      },
       operator: {
-        foreground: this.palette.Color08.code,
+        foreground: this.palette.Color02.code,
       },
       string: {
-        foreground: this.palette.Color18.code,
+        foreground: this.palette.Color08.code,
       },
     };
 

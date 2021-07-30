@@ -38,14 +38,14 @@ highlight Normal guifg=${palette.Color03.code} guibg=#030917
 
 const vRules: vimRule[] = [
   { fg: palette.Color10.code, groups: ["Comment"], style: "italic" },
-  { fg: palette.Color18.code, groups: ["String", "Character"] },
+  { fg: palette.Color08.code, groups: ["String", "Character"] },
   { fg: palette.Color13.code, groups: ["Number", "Boolean", "Float"] },
   { fg: palette.Color04.code, groups: ["Constant"] },
-  { fg: palette.Color02.code, groups: ["Function"] },
-  { fg: palette.Color15.code, groups: ["Identifier"] },
-  { fg: palette.Color09.code, groups: ["Operator"] },
-  { fg: palette.Color20.code, groups: ["Statement", "PreProc"] },
+  { fg: palette.Color01.code, groups: ["Function"] },
+  { fg: palette.Color09.code, groups: ["Identifier"] },
+  { fg: palette.Color04.code, groups: ["Operator"] },
+  { fg: palette.Color02.code, groups: ["Statement", "PreProc"] },
   { fg: palette.Color06.code, groups: ["Type"] },
-  { fg: palette.Color19.code, groups: ["Tag"] },
-  { fg: palette.Color05.code, groups: ["Special"] },
+  { fg: palette.Color05.code, groups: ["Tag"] },
+  { fg: palette.Color13.code, groups: ["Special"] },
 ];
