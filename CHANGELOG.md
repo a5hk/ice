@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.6.0]
+
+- Semantic highlighting
+- Fewer more distinguishable colors
+
 ## [0.5.0]
 
 - Background color for folded ranges

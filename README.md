@@ -1,6 +1,6 @@
 # [Ice](https://marketplace.visualstudio.com/items?itemName=a5hk.ice)
 
-A dark theme with cold colors.
+A dark icy color theme.
 
 ### Color palette
 
