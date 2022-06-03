@@ -1,0 +1,58 @@
+{
+  "name": "ice",
+  "displayName": "Ice",
+  "description": "Cold As Ice",
+  "version": "0.6.0",
+  "publisher": "a5hk",
+  "author": "a5hk",
+  "license": "MIT",
+  "icon": "icon.png",
+  "preview": true,
+  "keywords": [
+    "Ice",
+    "Cold",
+    "Dark",
+    "Borderless",
+    "Italic",
+    "Contrast"
+  ],
+  "galleryBanner": {
+    "color": "#012841",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "homepage": "https://github.com/a5hk/ice",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a5hk/ice"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ice",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ice-color-theme.json"
+      },
+      {
+        "label": "Ice Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ice-contrast-color-theme.json"
+      },
+      {
+        "label": "Ice Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ice-italic-color-theme.json"
+      },
+      {
+        "label": "Ice Contrast Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ice-contrast-italic-color-theme.json"
+      }
+    ]
+  }
+}
