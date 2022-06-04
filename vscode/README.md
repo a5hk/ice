@@ -10,10 +10,6 @@ Also available for [vim](/vim/colors/), [bat](/bat/), and [Windows Terminal](/wi
 
 ![javascript](/screenshot/javascript.png)
 
-## Color palettes
-
-- [Color Palettes](ColorPalette.md)
-
 ## License
 
 [MIT License](LICENSE)
