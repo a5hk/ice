@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.7.0]
+
+- Several changes
+
 ## [0.6.0]
 
 - Semantic highlighting
