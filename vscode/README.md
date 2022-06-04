@@ -12,4 +12,4 @@ Also available for [vim](/vim/colors/), [bat](/bat/), and [Windows Terminal](/wi
 
 ## License
 
-[MIT License](LICENSE)
+[MIT License](/LICENSE)
