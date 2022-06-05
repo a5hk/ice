@@ -2,4 +2,4 @@ This is a port of [Ice](https://marketplace.visualstudio.com/items?itemName=a5hk
 
 ## Screenshots
 
-![ruby](../screenshot/vim.png)
+![ruby](/screenshot/vim.png)
