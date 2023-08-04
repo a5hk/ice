@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.2
+
+- Default error color
+- Unexpected bracket color
+
 ## 1.1.0
 
 - Customized code action color
