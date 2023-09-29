@@ -1,8 +1,8 @@
 # [Ice](https://marketplace.visualstudio.com/items?itemName=a5hk.ice)
 
-A freezing cold dark theme.
+A theme that mimics the frozen and crystalline beauty of ice.
 
-Also available for [vim](/vim/colors/), [bat](/bat/), and [Windows Terminal](/windows-terminal/).
+Also available for [vim](/vim/colors/), [bat](/bat/), and [Windows Terminal](/windows-terminal/). Built using [Theme Generator](https://github.com/a5hk/theme-generator)
 
 ## Screenshots
 

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.0
+
+- Fixed TypeScript highlighting
+
 ## 1.1.2
 
 - Default error color
