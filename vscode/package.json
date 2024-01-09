@@ -14,16 +14,6 @@
         "label": "Ice Contrast",
         "path": "./themes/ice-contrast-color-theme.json",
         "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Ice Italic",
-        "path": "./themes/ice-italic-color-theme.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Ice Contrast Italic",
-        "path": "./themes/ice-contrast-italic-color-theme.json",
-        "uiTheme": "vs-dark"
       }
     ]
   },
@@ -41,10 +31,7 @@
   "keywords": [
     "Ice",
     "Cold",
-    "Dark",
-    "Borderless",
-    "Italic",
-    "Contrast"
+    "Dark"
   ],
   "license": "MIT",
   "name": "ice",
@@ -53,5 +40,5 @@
     "type": "git",
     "url": "https://github.com/a5hk/ice"
   },
-  "version": "1.2.0"
+  "version": "2.0.0"
 }
